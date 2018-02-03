@@ -1,0 +1,23 @@
+{
+  "name": "sanesignon",
+  "version": "0.1.0",
+  "description": "single sign-on, but sane",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayaansaha/SaneSignOn.git"
+  },
+  "keywords": [
+    "SSO",
+    "hackathon"
+  ],
+  "author": "Sayaan Saha, Martin Ku",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sayaansaha/SaneSignOn/issues"
+  },
+  "homepage": "https://github.com/sayaansaha/SaneSignOn#readme"
+}
