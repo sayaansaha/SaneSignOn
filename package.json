@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/sayaansaha/SaneSignOn/issues"
   },
-  "homepage": "https://github.com/sayaansaha/SaneSignOn#readme"
+  "homepage": "https://github.com/sayaansaha/SaneSignOn#readme",
+  "dependencies": {
+    "telesignsdk": "^2.0.2"
+  }
 }
