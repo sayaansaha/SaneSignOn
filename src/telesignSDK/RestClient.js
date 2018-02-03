@@ -1,20 +1,11 @@
 import request from 'request';
-import 'querystring';
+var keys = require('../ClientSecrets/telesignAPI.json');
+var TeleSignSDK = require('telesignsdk');
 
 export default class RestClient {
-  constructor(url, name, password) {
+  constructor() {
     this.url = url;
     this.name = name;
     this.password = password;
   }
-
-  getRequest(method) {
-  }
-
-  postRequest(method) {
-  }
-
-  deleteRequest(method) {
-  }
-
 }
